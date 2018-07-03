@@ -1,0 +1,107 @@
+2018-07-02 12:37:04 DEBUG MySql:25 - Hello World!
+2018-07-02 12:38:56 DEBUG MySql:25 - Hello World!
+2018-07-02 12:40:51 DEBUG MySql:25 - Hello World!
+2018-07-02 12:42:13 DEBUG MySql:25 - Hello World!
+2018-07-02 12:44:59 DEBUG MySql:27 - Hello World!
+2018-07-02 12:46:48 DEBUG MySql:27 - Hello World!
+2018-07-02 12:51:18 DEBUG MySql:27 - Hello World!
+2018-07-02 12:58:33 DEBUG MySql:27 - Hello World!
+2018-07-02 13:00:37 DEBUG MySql:25 - Hello World!
+2018-07-02 13:04:45 DEBUG MySql:25 - Hello World!
+2018-07-02 13:07:55 DEBUG MySql:25 - Hello World!
+2018-07-02 13:08:25 DEBUG MySql:25 - Hello World!
+2018-07-02 13:09:14 DEBUG MySql:25 - Hello World!
+2018-07-02 13:11:12 DEBUG MySql:25 - Hello World!
+2018-07-02 13:12:04 DEBUG MySql:25 - Hello World!
+2018-07-02 13:14:19 DEBUG MySql:25 - Hello World!
+2018-07-02 13:16:31 DEBUG MySql:25 - Hello World!
+2018-07-02 13:18:53 DEBUG MySql:25 - Hello World!
+2018-07-02 13:23:44 DEBUG MySql:25 - Hello World!
+2018-07-02 13:26:01 DEBUG MySql:25 - Hello World!
+2018-07-02 13:26:02 INFO  MySql:37 - east end
+2018-07-02 13:26:02 INFO  MySql:37 - l'hôtel fête-châtê
+2018-07-02 13:26:02 INFO  MySql:37 - north pole
+2018-07-02 13:26:02 INFO  MySql:37 - south pole
+2018-07-02 13:26:02 INFO  MySql:37 - torrento
+2018-07-02 13:26:02 INFO  MySql:37 - east bay
+2018-07-02 13:26:02 INFO  MySql:37 - north bay
+2018-07-02 13:26:02 INFO  MySql:37 - south bay
+2018-07-02 13:26:02 INFO  MySql:37 - front enc
+2018-07-02 13:26:02 INFO  MySql:37 - India
+2018-07-02 13:26:02 INFO  MySql:37 - Twilight Zone
+2018-07-02 13:26:02 INFO  MySql:37 - garden center
+2018-07-02 13:26:02 INFO  MySql:37 - combinedzone
+2018-07-02 13:26:02 INFO  MySql:37 - north bay
+2018-07-02 13:26:02 INFO  MySql:37 - easternbay
+2018-07-02 13:26:02 INFO  MySql:37 - testzone
+2018-07-02 13:26:02 INFO  MySql:37 - øres
+2018-07-02 13:26:02 INFO  MySql:37 - forest
+2018-07-02 13:26:02 INFO  MySql:37 - sea shore
+2018-07-02 13:26:02 INFO  MySql:37 - zone1
+2018-07-02 13:26:02 INFO  MySql:37 - zone2
+2018-07-02 13:26:02 INFO  MySql:37 - áíune âãäå-çois
+2018-07-02 13:26:02 INFO  MySql:37 - ëñìune-îune òuóuôuõuöuoý
+2018-07-02 13:26:02 INFO  MySql:37 - l'aïeul oùilàsûr
+2018-07-02 13:26:02 INFO  MySql:37 - l'hôtel fête-châtê
+2018-07-02 13:26:02 INFO  MySql:37 - viève-gagné noël
+2018-07-02 13:26:02 INFO  MySql:37 - wußte-bplt&s ƒrederic-ÿvon
+2018-07-02 13:26:02 INFO  MySql:37 - šžoé-ðomas d'œuvre-øresund
+2018-07-02 13:26:41 DEBUG MySql:25 - Hello World!
+2018-07-02 13:29:51 DEBUG MySql:25 - Hello World!
+2018-07-02 13:29:52 INFO  MySql:37 - east end
+2018-07-02 13:29:52 INFO  MySql:37 - l'hôtel fête-châtê
+2018-07-02 13:29:52 INFO  MySql:37 - north pole
+2018-07-02 13:29:52 INFO  MySql:37 - south pole
+2018-07-02 13:29:52 INFO  MySql:37 - torrento
+2018-07-02 13:29:52 INFO  MySql:37 - east bay
+2018-07-02 13:29:52 INFO  MySql:37 - north bay
+2018-07-02 13:29:52 INFO  MySql:37 - south bay
+2018-07-02 13:29:52 INFO  MySql:37 - front enc
+2018-07-02 13:29:52 INFO  MySql:37 - India
+2018-07-02 13:29:52 INFO  MySql:37 - Twilight Zone
+2018-07-02 13:29:52 INFO  MySql:37 - garden center
+2018-07-02 13:29:52 INFO  MySql:37 - combinedzone
+2018-07-02 13:29:52 INFO  MySql:37 - north bay
+2018-07-02 13:29:52 INFO  MySql:37 - easternbay
+2018-07-02 13:29:52 INFO  MySql:37 - testzone
+2018-07-02 13:29:52 INFO  MySql:37 - øres
+2018-07-02 13:29:52 INFO  MySql:37 - forest
+2018-07-02 13:29:52 INFO  MySql:37 - sea shore
+2018-07-02 13:29:52 INFO  MySql:37 - zone1
+2018-07-02 13:29:52 INFO  MySql:37 - zone2
+2018-07-02 13:29:52 INFO  MySql:37 - áíune âãäå-çois
+2018-07-02 13:29:52 INFO  MySql:37 - ëñìune-îune òuóuôuõuöuoý
+2018-07-02 13:29:52 INFO  MySql:37 - l'aïeul oùilàsûr
+2018-07-02 13:29:52 INFO  MySql:37 - l'hôtel fête-châtê
+2018-07-02 13:29:52 INFO  MySql:37 - viève-gagné noël
+2018-07-02 13:29:52 INFO  MySql:37 - wußte-bplt&s ƒrederic-ÿvon
+2018-07-02 13:29:52 INFO  MySql:37 - šžoé-ðomas d'œuvre-øresund
+2018-07-02 13:34:38 DEBUG MySql:25 - Hello World!
+2018-07-02 13:34:38 INFO  MySql:37 - east end
+2018-07-02 13:34:38 INFO  MySql:37 - l'hôtel fête-châtê
+2018-07-02 13:34:38 INFO  MySql:37 - north pole
+2018-07-02 13:34:38 INFO  MySql:37 - south pole
+2018-07-02 13:34:38 INFO  MySql:37 - torrento
+2018-07-02 13:34:38 INFO  MySql:37 - east bay
+2018-07-02 13:34:38 INFO  MySql:37 - north bay
+2018-07-02 13:34:39 INFO  MySql:37 - south bay
+2018-07-02 13:34:39 INFO  MySql:37 - front enc
+2018-07-02 13:34:39 INFO  MySql:37 - India
+2018-07-02 13:34:39 INFO  MySql:37 - Twilight Zone
+2018-07-02 13:34:39 INFO  MySql:37 - garden center
+2018-07-02 13:34:39 INFO  MySql:37 - combinedzone
+2018-07-02 13:34:39 INFO  MySql:37 - north bay
+2018-07-02 13:34:39 INFO  MySql:37 - easternbay
+2018-07-02 13:34:39 INFO  MySql:37 - testzone
+2018-07-02 13:34:39 INFO  MySql:37 - øres
+2018-07-02 13:34:39 INFO  MySql:37 - forest
+2018-07-02 13:34:39 INFO  MySql:37 - sea shore
+2018-07-02 13:34:39 INFO  MySql:37 - zone1
+2018-07-02 13:34:39 INFO  MySql:37 - zone2
+2018-07-02 13:34:39 INFO  MySql:37 - áíune âãäå-çois
+2018-07-02 13:34:39 INFO  MySql:37 - ëñìune-îune òuóuôuõuöuoý
+2018-07-02 13:34:39 INFO  MySql:37 - l'aïeul oùilàsûr
+2018-07-02 13:34:39 INFO  MySql:37 - l'hôtel fête-châtê
+2018-07-02 13:34:39 INFO  MySql:37 - viève-gagné noël
+2018-07-02 13:34:39 INFO  MySql:37 - wußte-bplt&s ƒrederic-ÿvon
+2018-07-02 13:34:39 INFO  MySql:37 - šžoé-ðomas d'œuvre-øresund
